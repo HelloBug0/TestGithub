@@ -3,4 +3,3 @@ function foo()
 end
 
 foo()
--- vi: ft=lua ts=4 sw=4 et
